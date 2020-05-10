@@ -6,9 +6,9 @@ BAVI is a bow and arrow attachment that allows the visually impaired to particip
 ## Getting Started
 
 ### Prerequisites 
-Raspberry Pi 3 B+
-Terabee Evo Lidar
-OpenCV
+* Raspberry Pi 3 B+
+* Terabee Evo Lidar
+* OpenCV
 
 
 ### Installing
@@ -22,7 +22,9 @@ OpenCV
 ```
 
 ```
-#### OpenCV Setup:
+##### OpenCV Setup:
+```
 
+```
 
 ## Results
