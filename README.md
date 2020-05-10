@@ -102,7 +102,7 @@ sudo reboot
 
 
 #### Final Design
-<img src="pictures/enclosure.jpg" alt="enclosure" width="100"/>   extra &nbsp;&nbsp; space   <img src="pictures/final_design.JPG" alt="final" width="100"/>
+<img src="pictures/enclosure.jpg" alt="enclosure" width="100"/>  &nbsp; &nbsp;   <img src="pictures/final_design.JPG" alt="final" width="100"/>
 
 #### National Braille Press Testing
 <img src="pictures/Joe_and_Kevin.JPG" alt="final" width="100"/>  <img src="pictures/joe_and_kevin2.jpeg" alt="final" width="100"/>  <img src="pictures/joe_testing.JPG" alt="enclosure" width="200"/>
