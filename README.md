@@ -1,6 +1,6 @@
 # BAVI
 
-BAVI is a bow and arrow attachment that allows the visually impaired to participate in archery. BAVI uses OpenCV to detect the target, a lidar to detect the distance of the target and bluetooth earphones to provide audio feedback to the user.  
+BAVI is a bow and arrow attachment that allows the visually impaired to participate in archery. BAVI uses OpenCV to detect the target, a lidar to detect the distance of the target and bluetooth earphones to provide audio feedback to the user. Partnered with the National Braille Press to allow the 
 
 
 ## Getting Started
