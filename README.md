@@ -102,4 +102,4 @@ sudo reboot
 
 
 #### Final Design
-<img src="pictures/enclosure.jpg" alt="enclosure" width="50"/>
+<img src="pictures/enclosure.jpg" alt="enclosure" width="100"/>
