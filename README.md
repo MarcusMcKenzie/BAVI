@@ -99,3 +99,7 @@ sudo reboot
 ```
 
 ## Results
+
+
+#### Final Design
+/home/marcus/Documents/Northeastern/Capstone/pictures/enclosure.jpg
