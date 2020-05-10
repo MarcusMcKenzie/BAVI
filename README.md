@@ -102,4 +102,9 @@ sudo reboot
 
 
 #### Final Design
-<img src="pictures/enclosure.jpg" alt="enclosure" width="100"/> <img src="pictures/final_design.JPG" alt="final" width="100"/>
+<img src="pictures/enclosure.jpg" alt="enclosure" width="100"/>      <img src="pictures/final_design.JPG" alt="final" width="100"/>
+
+#### National Braille Press Testing
+<img src="pictures/joe_testing.jpg" alt="enclosure" width="100"/>      <img src="pictures/Joe_and_Kevin.JPG" alt="final" width="100"/>  <img src="pictures/joe_and_kevin2.JPG" alt="final" width="100"/>
+
+#### Range Testing 
