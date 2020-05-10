@@ -8,8 +8,9 @@ BAVI is a bow and arrow attachment that allows the visually impaired to particip
 ### Prerequisites 
 * Raspberry Pi 3 B+
 * Terabee Evo Lidar
+* Bluetooth Earphones
 * OpenCV
-
+* Pushbutton
 
 ### Installing
 
@@ -22,6 +23,12 @@ BAVI is a bow and arrow attachment that allows the visually impaired to particip
 ```
 
 ```
+
+##### Bluetooth Setup:
+```
+
+```
+
 ##### OpenCV Setup:
 ```
 
