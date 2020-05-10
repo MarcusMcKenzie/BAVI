@@ -108,8 +108,8 @@ sudo reboot
 
 #### National Braille Press - User Testing
 
-<br>
-<img src="pictures/Joe_and_Kevin.JPG" alt="final" width="200"/>  <img src="pictures/joe_and_kevin2.jpeg" alt="final" width="200"/>  <img src="pictures/joe_testing.JPG" alt="enclosure" width="400"/>
+
+<br> <img src="pictures/Joe_and_Kevin.JPG" alt="final" width="200"/>  <img src="pictures/joe_and_kevin2.jpeg" alt="final" width="200"/>  <img src="pictures/joe_testing.JPG" alt="enclosure" width="400"/>
 <br>
 
 #### Range Testing 
