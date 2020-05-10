@@ -102,4 +102,4 @@ sudo reboot
 
 
 #### Final Design
-/home/marcus/Documents/Northeastern/Capstone/pictures/enclosure.jpg
+![Enclosure](pictures/enclosure.jpg)
