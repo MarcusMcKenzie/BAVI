@@ -102,4 +102,4 @@ sudo reboot
 
 
 #### Final Design
-![Enclosure](pictures/enclosure.jpg)
+![Enclosure](pictures/enclosure.jpg = 100x100)
