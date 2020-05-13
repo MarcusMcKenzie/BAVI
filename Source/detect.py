@@ -58,7 +58,6 @@ print(str(bestCircle))
 # cv2.circle(img,(bestCircle[0],bestCircle[1]),bestCircle[2],(0,255,0),2)
 # cv2.circle(img,(bestCircle[0],bestCircle[1]),2,(0,0,255),3)
 
-
 # circles = cv2.HoughCircles(img,cv2.HOUGH_GRADIENT,1,319,
 #                             param1=100,param2=30,minRadius=0,maxRadius=0)
 
