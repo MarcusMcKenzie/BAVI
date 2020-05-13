@@ -25,10 +25,6 @@ GPIO.add_event_detect(11, GPIO.FALLING, callback = button_release) #on falling e
 
 GPIO.cleanup() #clean up
 
-
-
-
-
 #old code
 # from gpiozero import Button
 # from time import sleep
