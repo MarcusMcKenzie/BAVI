@@ -2,7 +2,6 @@
 
 BAVI is a bow and arrow attachment that allows the visually impaired to participate in archery. BAVI uses OpenCV to detect the target, a lidar to detect the distance of the target and bluetooth earphones to provide audio feedback to the user. Collaborating with The National Braille Press and their members we gained insightful approaches to the development of the design. 
 
-
 ## Getting Started
 
 ### Hardware Required
@@ -64,7 +63,6 @@ sudo apt-get install libgtk2.0-dev libgtk-3-dev
 sudo apt-get install libatlas-base-dev gfortran
 
 sudo apt-get install python3-dev
-
 sudo apt-get install python3-pip
 sudo pip3 install numpy scipy
 
@@ -95,16 +93,13 @@ sudo apt-get update
 
 sudo reboot
 ```
-
 ## Results
-
 
 #### Final Design
 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="pictures/enclosure.jpg" alt="enclosure" width="200"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="pictures/final_design.JPG" alt="final" width="200"/> <br/><br/>
 
 #### National Braille Press - User Testing
-
 
 <br/> <img src="pictures/Joe_and_Kevin.JPG" alt="final" width="200"/>  <img src="pictures/joe_and_kevin2.jpeg" alt="final" width="200"/>  <img src="pictures/joe_testing.JPG" alt="enclosure" width="400"/> <br/><br/> 
 
