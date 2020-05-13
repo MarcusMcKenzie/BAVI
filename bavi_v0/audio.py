@@ -38,7 +38,6 @@ class Audio:
         else:
             play(self.sine_tone)
 
-
 if __name__ == "__main__":
     au = Audio([640, 480])
     curIter = 10
