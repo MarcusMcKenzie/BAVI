@@ -26,8 +26,6 @@ hough!
     |> else find concenctric coordinates, return best-center match
 audio
     abs(coords - center) -> x,y audio feedback
-
-
 """
 
 class videoProcessor:
