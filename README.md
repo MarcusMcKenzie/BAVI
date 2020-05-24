@@ -101,7 +101,7 @@ sudo reboot
 
 #### National Braille Press - User Testing
 
-<br/> <img src="pictures/Joe_and_Kevin.JPG" alt="final" width="200"/>  <img src="pictures/joe_and_kevin2.jpeg" alt="final" width="200"/>  <img src="pictures/joe_testing.JPG" alt="enclosure" width="400"/> <br/><br/> 
+<br/> <img src="pictures/Joe_and_Kevin.JPG" alt="final" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="pictures/joe_and_kevin2.jpeg" alt="final" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="pictures/joe_testing.JPG" alt="enclosure" width="400"/> <br/><br/> 
 
 #### Range Testing 
 https://www.dropbox.com/s/25xd60l67ax4nc4/range_large.mp4?dl=0
